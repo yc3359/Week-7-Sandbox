@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "fadc24271e014844c192949473ed376d",
+    "format" : "model",
+    "displayName" : "WSQ_GIS_Clean.usdz"
+  },
+  {
+    "libraryIdentifier" : "1a07a422a0bb808cdfd1653a077b0a2e",
+    "format" : "model",
+    "displayName" : "WSQ_GIS_Clean_0.05.usdz"
+  },
+  {
+    "libraryIdentifier" : "12a40742e626ff8c08fd29eda1fa6116",
+    "format" : "model",
+    "displayName" : "WSQ_GIS_Clean_building_small.usdz"
+  },
+  {
+    "libraryIdentifier" : "7326aab37824b0c78173e4dcf98429bb",
+    "format" : "model",
+    "displayName" : "WSQ_GIS_Clean_map_small.usdz"
+  }
+]

@@ -1,0 +1,336 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "0DDDD5F6-F55C-4C0E-A4AD-138953DE2F58" : null,
+                  "1B137E8B-D0EB-41CB-B026-F7A099840201" : null,
+                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
+                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
+                  "86F0892B-97E2-4CD5-A2C8-01EC27AAEB17" : null,
+                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
+                  "915A05B7-7DD3-45CD-AA00-3505159A4010" : null,
+                  "8590F1C9-3C3B-4DE8-A3F2-AE3150755C47" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:12a40742e626ff8c08fd29eda1fa6116\/WSQ_GIS_Clean_building_small.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "33798BEA-8294-4311-A358-5EC5FEB0EB4B"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "A578A84D-82B6-425C-9F61-99BFBAC32C3D"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "BuildingMod"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.0000001192092896,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.0000001192092896,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.0000001192092896,
+                        0,
+                        0,
+                        7.6368458223896596e-08,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "9416BA95-B3BA-4E01-BE47-BB926E635488" : null,
+                  "81121651-25DF-4F68-926E-FB266DB20280" : null,
+                  "A0B18C24-DF10-4D04-901B-F303CE946A76" : null,
+                  "A159A40F-2B7E-48DB-B1D0-FD0C139BAC29" : null,
+                  "B31C6F03-801D-428B-BD9C-B01C98C69137" : null,
+                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null,
+                  "C83CF7E3-2CF1-4C29-A982-69326563D44A" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:7326aab37824b0c78173e4dcf98429bb\/WSQ_GIS_Clean_map_small.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "31C9D93C-E543-4FE2-8DD3-F6B5AAC4DDFC"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "1B28CF0C-2748-4293-8D52-A38F1129E958"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "WsqMap"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        8.6601090742988163e-09,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "D1BC96A0-2490-4158-B63E-D78F86C7DEA4" : null,
+                  "D74180BA-9522-4C60-871B-A232114DF5BC" : null,
+                  "E2EDC628-F39F-4581-B7E3-52A11A61E13E" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "MyEntities",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99270451068878174,
+                  7.4505805969238281e-09,
+                  -0.12057207524776459,
+                  0,
+                  -0.11460982263088226,
+                  0.31057280302047729,
+                  -0.9436149001121521,
+                  0,
+                  0.037446454167366028,
+                  0.95054954290390015,
+                  0.30830705165863037,
+                  0,
+                  0.11521883308887482,
+                  0.32937207818031311,
+                  0.098765924572944641,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
